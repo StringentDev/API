@@ -1,0 +1,18 @@
+{
+  "name": "paper_data",
+  "version": "0.0.1-alpha",
+  "description": "Database Module.",
+  "main": "./database.js",
+  "scripts": {
+    "test": "test.js",
+		"start": "node ./test.js"
+  },
+  "keywords": [
+    "Database"
+  ],
+  "author": "StringentDev",
+  "license": "ISC",
+  "dependencies": {
+    "lzma": "^2.3.2"
+  }
+}
